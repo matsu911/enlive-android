@@ -1,6 +1,6 @@
 # enlive-android
 
-Forked from [cgrantd/enlive](https://github.com/cgrand/enlive) for Android.
+Forked from [cgrand/enlive](https://github.com/cgrand/enlive) for Android.
 
 ## Usage
 
